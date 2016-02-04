@@ -12,6 +12,8 @@ Identify user environment
 6.  How long are you willing to let any training take?
 
 Identify stories
+1.  Could you go through a normal workday?
+2.  What do you plan to use this system for, primarily?
 
 Summarize/clarify problems
 -Ask about specific areas
@@ -19,6 +21,10 @@ Summarize/clarify problems
 Identify func req
 
 Identify nonfunc req
+1.  What is the maximum system downtime you can allow?
+2.  What sort of security do you expect?
+3.  How do you want the system distributed? How do you want the program installed?
+4.  What are your system performance requirements?
 
 Summarize/clarify requirements
 
