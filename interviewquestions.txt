@@ -1,12 +1,20 @@
 Questions for Interview - Requirements Document
 
 Identify problems
+1.  What problems do you currently have? [Why? Current solutions? How do u want it solved?]
 
 Identify user environment
+1.  Who will use the system?
+2.  What will they primarily be using the system for?
+3.  What is their technical expertise?
+4.  What platforms (PC, Mac, etc) do you currently use?
+5.  What are your expectations for how to use the program?
+6.  How long are you willing to let any training take?
 
 Identify stories
 
 Summarize/clarify problems
+-Ask about specific areas
 
 Identify func req
 
