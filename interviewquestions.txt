@@ -1,0 +1,17 @@
+Questions for Interview - Requirements Document
+
+Identify problems
+
+Identify user environment
+
+Identify stories
+
+Summarize/clarify problems
+
+Identify func req
+
+Identify nonfunc req
+
+Summarize/clarify requirements
+
+Discuss potential solutions/implementations
